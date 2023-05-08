@@ -20,9 +20,9 @@ Creación de un sitio web de noticias en línea utilizando Html, CSS, JavaScript
 
 Si está interesado en conocer más sobre mí o en ver algunos de mis proyectos en línea, no dude en echar un vistazo a los siguientes enlaces:
 
-https://gabrieldecima.github.io/Portfolio-GabrielDecima/
+[LinkPortfolio](https://gabrieldecima.github.io/Portfolio-GabrielDecima/) ,
+[LinkedIn](https://www.linkedin.com/in/gabrieldecima1028/) ,
+Gmail: (gabrieldecima1028@gmail.com)
 
 
-Perfil en LinkedIn
-Repositorio de GitHub
-¡Gracias por visitar mi perfil de GitHub!
+# ¡Gracias por visitar mi perfil de GitHub!
